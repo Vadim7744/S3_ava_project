@@ -1,0 +1,15 @@
+asgiref==3.9.1
+botocore==1.39.4
+certifi==2025.7.9
+Django==3.2.16
+django_minio==2.0
+jmespath==1.0.1
+minio==2.2.2
+pillow==11.3.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+s3transfer==0.13.0
+six==1.17.0
+sqlparse==0.5.3
+tzdata==2025.2
+urllib3==2.5.0
